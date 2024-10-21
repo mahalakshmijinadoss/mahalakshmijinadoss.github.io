@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>mahajinadoss@gmail.com</p>
+    <p style="text-align:center">mahajinadoss [at] gmail.com</p>
 
 
 news: true # includes a list of news items
