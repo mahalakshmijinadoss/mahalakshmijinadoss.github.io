@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Using Model Explanations in Training for Image classification
-description:  An explanation ensemble in an adversarial setup with a Discriminator in Pytorch to incorporate
+description: An explanation ensemble in an adversarial setup with a Discriminator in Pytorch to incorporate
 explanations during training
 img: assets/img/12.jpg
 importance: 1
