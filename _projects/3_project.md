@@ -3,7 +3,6 @@ layout: page
 title: Attacking and Defending Machine Learning Models for Tabular Data
 description: In this project, research done on adversarial attacks for tabular data-based machine learning models is replicated. The current work is then extended to adapt a defense predominantly used in the image domain to study its effectiveness for tabular data.
 img: assets/img/3.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
