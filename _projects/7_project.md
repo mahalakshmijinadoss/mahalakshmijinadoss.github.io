@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: Bias Mitigation
+description: Implementing and Evaluating adversarial training methods for mitigating bias from downstream NLP tasks
 img: assets/img/4.jpg
 importance: 1
 category: work
