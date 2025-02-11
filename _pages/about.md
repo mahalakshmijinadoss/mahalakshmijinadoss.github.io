@@ -21,10 +21,10 @@ I am a Master’s student in Artificial Intelligence at Oregon State University,
 
 This summer, I interned at NVIDIA as a Generative AI intern, where I implemented a GraphRAG pipeline that integrates LLM-generated knowledge graphs to enhance Retrieval-Augmented Generation systems.
 
-Previously, I was a Data Scientist/ Researcher at Tattle, where I was advised by Tarunima Prabhakar and Denny George. Here, I contributed to building open source tools and datasets to analyze and mitigate the spread of false and harmful information.
+Previously, I was a Data Scientist/ Researcher at Tattle, where I was advised by Tarunima Prabhakar and Denny George. Here, I contributed to building open-source tools and datasets to analyze and mitigate the spread of false and harmful information.
 
 Prior to that, I worked on data curation and evaluation for Machine Translation for low-resource Indian languages at AI4Bharat under the guidance of Dr. Pratyush Kumar and Dr. Mitesh Khapra
 
-In my free time, I like to read, bake, play board games, and roll around in the grass. Feel free to check out my CV and drop me an email if you want to chat with me!
+I love food, transit, games, and rolling around in the grass. Feel free to check out my CV and drop me an email if you want to chat with me!
 
 
